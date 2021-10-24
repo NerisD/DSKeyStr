@@ -10,4 +10,4 @@ DSKeyStr is my macOS app to display what on the screen what you tape on your key
 * Add some option like transparency, color... 
 * Dark Mode
 
-... need more time to implement those feature 😝 !
+... need more time to implement those features 😝 !
